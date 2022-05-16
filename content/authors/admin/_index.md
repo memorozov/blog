@@ -20,7 +20,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Программирование
   - Музыка
-  - Волейбол
+  - Волейбол)
 
 # Education to show in About widget
 education:
