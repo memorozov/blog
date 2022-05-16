@@ -10,7 +10,7 @@ role: Студент РУДН
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: RUDN
+  - name: RUDN (Российский Университет Дружбы Народов)
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
@@ -20,12 +20,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Программирование
   - Музыка
-  - Волейбол)
+  - Волейбол
 
 # Education to show in About widget
-education:
-  courses:
-    - 1 курс бакалаврита РУДН
+Образование:
+  курсы:
+    - курс: Бакалавриат
+      institution: RUDN (Российский Университет Дружбы Народов)
+      год: 2021
+      
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
