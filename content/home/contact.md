@@ -25,32 +25,26 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: laumynkva@gmail.com
+  phone: +7 999 888 77 66
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Kuznetsky Most Street
+    city: Moscow
+    region: Moscow
+    postcode: '107031'
+    country: Russia
+    country_code: RU
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '0'
+    longitude: '0'
+  directions: RUDN Engineering Academy Building
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - '00:00 to 24:00'
   contact_links:
-    - icon: twitter
+    - icon: github
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: Github
+      link: 'https://github.com/memorozov'
 
 design:
   columns: '2'
