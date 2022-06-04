@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Контакты
+title: Contact
 subtitle:
 
 content:
@@ -28,16 +28,16 @@ content:
   email: laumynkva@gmail.com
   phone: +7 999 888 77 66
   address:
-    street: Кузнецкий МОста
-    city: Москва
-    region: Москва
+    street: Kuznetsky Most Street
+    city: Moscow
+    region: Moscow
     postcode: '107031'
-    country: Россия
+    country: Russia
     country_code: RU
   coordinates:
     latitude: '0'
     longitude: '0'
-  directions: РУДН Инженерная академия
+  directions: RUDN Engineering Academy Building
   office_hours:
     - '00:00 to 24:00'
   contact_links:

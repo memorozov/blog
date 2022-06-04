@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: Сертификаты
+title: 'Accomplish&shy;ments'
 subtitle:
 
 # Date format
@@ -26,10 +26,10 @@ item:
   - certificate_url: https://www.rudn.ru/
     date_end: ''
     date_start: '2021-09-01'
-    description: 'Студент'
+    description: 'Student'
     organization: RUDN
     organization_url: https://www.coursera.org
-    title: Студент РУДНа
+    title: RUDN member
     url: ''
 
 
